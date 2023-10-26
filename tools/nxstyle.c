@@ -563,6 +563,7 @@ static const char *g_white_content_list[] =
   "unzGetCurrentFileInfo64",
   "unzGoToNextFile",
   "unzGoToFirstFile",
+  "XFree",
   NULL
 };
 
